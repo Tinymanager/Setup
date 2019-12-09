@@ -1,2 +1,2 @@
 # Setup
-google code-in
+This is the sample README file for the google code-in.
